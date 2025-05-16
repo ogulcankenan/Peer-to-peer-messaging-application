@@ -21,6 +21,15 @@ This project is a simple Python-based peer-to-peer messaging application that en
 | `users.json` | Stores known users and timestamps (can be regenerated) |
 | `chat_log.txt` | Stores message logs (plain text) |
 
+
+| Name             | Role                                            |
+|------------------|-------------------------------------------------|
+| Ogulcan Kenan    | Project Coordinator, chat_initiator.py, overall integration |
+| Dogancan Akkan   | Development of peer_discovery.py module          |
+| Tuna Altin       | chat_responder.py and user management            |
+| Oguzhan Kosar    | service_announcer.py and system announcements    |
+
+
 ## 🧰 Requirements
 
 - Python 3.7 or above
