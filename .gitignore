@@ -1,0 +1,10 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Log files
+*.log
+chat_log.txt
+
+# JSON user data (optional, çünkü IP ve kullanıcı adı içeriyor)
+users.json
